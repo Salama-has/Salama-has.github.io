@@ -1,4 +1,4 @@
-## Windows Architecture  Overview
+## 
 
 You can use the [editor on GitHub](https://github.com/Salama-has/Salama-has.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
